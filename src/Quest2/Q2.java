@@ -7,9 +7,6 @@ import java.util.Vector;
 
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
 
-import com.sun.org.apache.bcel.internal.generic.ArithmeticInstruction;
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections;
-
 import Quest1.Nodo;
 
 public class Q2 {

@@ -1,12 +1,8 @@
 package Quest1;
 
-import java.awt.datatransfer.StringSelection;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
-
-import com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Array;
-import com.sun.xml.internal.fastinfoset.util.StringArray;
 
 public class Q1 {
 

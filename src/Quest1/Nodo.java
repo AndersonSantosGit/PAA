@@ -3,10 +3,6 @@ package Quest1;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import sun.security.util.Length;
-
-import com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Array;
-
 public class Nodo {
 
 	private int id = 0;
